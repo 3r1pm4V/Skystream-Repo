@@ -1,0 +1,11 @@
+{
+  "id": "com.h0dev.hh3d",
+  "name": "HH3D",
+  "version": "1.0.0",
+  "author": "h0dev",
+  "icon": "https://hh3dtq.com/favicon.ico",
+  "baseUrl": "https://hh3dtq.com",
+  "domains": [
+    { "name": "Primary", "url": "https://hh3dtq.com" }
+  ]
+}

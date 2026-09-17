@@ -1,6 +1,6 @@
 {
-  "name": "SkyStream Plugin Hub",
-  "description": "A developer toolkit and hub for SkyStream plugins converted from CloudStream 3 sources.",
+  "name": "SkyStream Plugin Hub (h0dev Converted)",
+  "description": "Professional SkyStream plugin repository containing 7 converted movie extensions from CloudStream 3.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

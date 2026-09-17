@@ -1,0 +1,11 @@
+{
+  "id": "com.h0dev.tvhay",
+  "name": "TVHay",
+  "version": "1.0.0",
+  "author": "h0dev",
+  "icon": "https://tvhay.cc/favicon.ico",
+  "baseUrl": "https://tvhay.cc",
+  "domains": [
+    { "name": "Primary", "url": "https://tvhay.cc" }
+  ]
+}

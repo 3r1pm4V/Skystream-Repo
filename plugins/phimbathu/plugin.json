@@ -1,0 +1,11 @@
+{
+  "id": "com.h0dev.phimbathu",
+  "name": "PhimBatHu",
+  "version": "1.0.0",
+  "author": "h0dev",
+  "icon": "https://phimbathu.org/favicon.ico",
+  "baseUrl": "https://phimbathu.org",
+  "domains": [
+    { "name": "Primary", "url": "https://phimbathu.org" }
+  ]
+}

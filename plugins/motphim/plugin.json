@@ -1,0 +1,11 @@
+{
+  "id": "com.h0dev.motphim",
+  "name": "MotPhim",
+  "version": "1.0.0",
+  "author": "h0dev",
+  "icon": "https://motphimtv.info/favicon.ico",
+  "baseUrl": "https://motphimtv.info",
+  "domains": [
+    { "name": "Primary", "url": "https://motphimtv.info" }
+  ]
+}

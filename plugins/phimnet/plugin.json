@@ -1,0 +1,11 @@
+{
+  "id": "com.h0dev.phimnet",
+  "name": "PhimNet",
+  "version": "1.0.0",
+  "author": "h0dev",
+  "icon": "https://phimnet.org/favicon.ico",
+  "baseUrl": "https://phimnet.org",
+  "domains": [
+    { "name": "Primary", "url": "https://phimnet.org" }
+  ]
+}

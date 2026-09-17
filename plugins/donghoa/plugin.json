@@ -1,0 +1,11 @@
+{
+  "id": "com.h0dev.donghoa",
+  "name": "DongHoa",
+  "version": "1.0.0",
+  "author": "h0dev",
+  "icon": "https://donghoatv.com/favicon.ico",
+  "baseUrl": "https://donghoatv.com",
+  "domains": [
+    { "name": "Primary", "url": "https://donghoatv.com" }
+  ]
+}
