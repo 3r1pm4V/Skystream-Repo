@@ -1,5 +1,6 @@
 {
   "id": "com.h0dev.tvhay",
+  "packageName": "com.h0dev.tvhay",
   "name": "TVHay",
   "version": "1.0.0",
   "author": "h0dev",

@@ -1,5 +1,6 @@
 {
   "id": "com.h0dev.motphim",
+  "packageName": "com.h0dev.motphim",
   "name": "MotPhim",
   "version": "1.0.0",
   "author": "h0dev",

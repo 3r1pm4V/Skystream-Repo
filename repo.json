@@ -1,0 +1,105 @@
+{
+  "id": "com.h0dev.skyhub",
+  "packageName": "com.h0dev.skyhub",
+  "name": "h0dev Sky Hub",
+  "description": "Professional SkyStream plugin repository converted from CloudStream 3 extensions.",
+  "author": "h0dev",
+  "version": "1.0.0",
+  "icon": "https://raw.githubusercontent.com/h0dev/0cs3/movie/icon.png",
+  "plugins": [
+    {
+      "id": "com.h0dev.phimmoichill",
+      "name": "PhimMoiChill",
+      "version": "1.0.0",
+      "path": "plugins/phimmoichill",
+      "url": "plugins/phimmoichill/plugin.json"
+    },
+    {
+      "id": "com.h0dev.motphim",
+      "name": "MotPhim",
+      "version": "1.0.0",
+      "path": "plugins/motphim",
+      "url": "plugins/motphim/plugin.json"
+    },
+    {
+      "id": "com.h0dev.tvhay",
+      "name": "TVHay",
+      "version": "1.0.0",
+      "path": "plugins/tvhay",
+      "url": "plugins/tvhay/plugin.json"
+    },
+    {
+      "id": "com.h0dev.phimbathu",
+      "name": "PhimBatHu",
+      "version": "1.0.0",
+      "path": "plugins/phimbathu",
+      "url": "plugins/phimbathu/plugin.json"
+    },
+    {
+      "id": "com.h0dev.donghoa",
+      "name": "DongHoa",
+      "version": "1.0.0",
+      "path": "plugins/donghoa",
+      "url": "plugins/donghoa/plugin.json"
+    },
+    {
+      "id": "com.h0dev.hh3d",
+      "name": "HH3D",
+      "version": "1.0.0",
+      "path": "plugins/hh3d",
+      "url": "plugins/hh3d/plugin.json"
+    },
+    {
+      "id": "com.h0dev.phimnet",
+      "name": "PhimNet",
+      "version": "1.0.0",
+      "path": "plugins/phimnet",
+      "url": "plugins/phimnet/plugin.json"
+    }
+  ],
+  "plugin": [
+    {
+      "id": "com.h0dev.phimmoichill",
+      "name": "PhimMoiChill",
+      "version": "1.0.0",
+      "url": "plugins/phimmoichill/plugin.json"
+    },
+    {
+      "id": "com.h0dev.motphim",
+      "name": "MotPhim",
+      "version": "1.0.0",
+      "url": "plugins/motphim/plugin.json"
+    },
+    {
+      "id": "com.h0dev.tvhay",
+      "name": "TVHay",
+      "version": "1.0.0",
+      "url": "plugins/tvhay/plugin.json"
+    },
+    {
+      "id": "com.h0dev.phimbathu",
+      "name": "PhimBatHu",
+      "version": "1.0.0",
+      "url": "plugins/phimbathu/plugin.json"
+    },
+    {
+      "id": "com.h0dev.donghoa",
+      "name": "DongHoa",
+      "version": "1.0.0",
+      "url": "plugins/donghoa/plugin.json"
+    },
+    {
+      "id": "com.h0dev.hh3d",
+      "name": "HH3D",
+      "version": "1.0.0",
+      "url": "plugins/hh3d/plugin.json"
+    },
+    {
+      "id": "com.h0dev.phimnet",
+      "name": "PhimNet",
+      "version": "1.0.0",
+      "url": "plugins/phimnet/plugin.json"
+    }
+  ],
+  "repos": []
+}

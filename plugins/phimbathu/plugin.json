@@ -1,5 +1,6 @@
 {
   "id": "com.h0dev.phimbathu",
+  "packageName": "com.h0dev.phimbathu",
   "name": "PhimBatHu",
   "version": "1.0.0",
   "author": "h0dev",
